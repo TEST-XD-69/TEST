@@ -1,1 +1,1 @@
-Hqhq
+[FBAN/Orca-Android;FBAV/377.0.0.13.101;FBPN/com.facebook.orca;FBLC/en_US;FBBV/396116322;FBCR/Banglalink;FBMF/WALTON;FBBD/WALTON;FBDV/WALPAD8G;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.3125,width=800,height=1217};FB_FW/1;]
