@@ -1,1 +1,1 @@
-hqhqh
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/id_ID;FBCR/XL 4G LTE;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo P70-A;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
