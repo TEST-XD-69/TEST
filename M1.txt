@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454026;FBDM/{density=3.0,width=1920,height=1080};FBLC/es_LA;FBCR/EMOVIL;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC One;FBSV/4.4.3;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454129;FBDM/{density=4.0,width=1440,height=2392};FBLC/en_US;FBCR/NOVA;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-D855;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
