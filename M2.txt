@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/id_ID;FBCR/XL 4G LTE;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo P70-A;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454129;FBDM/{density=3.0,width=1794,height=1080};FBLC/en_GB;FBCR/vodafone IE;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC One M8s;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
